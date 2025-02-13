@@ -80,7 +80,7 @@ class BottomNavBar extends StatelessWidget {
                                 label,
                                 overflow: TextOverflow.ellipsis,
                                 textAlign: TextAlign.center,
-                                style: Theme.of(context).textTheme.bodyText1,
+                                style: Theme.of(context).textTheme.bodyMedium,
                               ),
                             )
                           : Container()
